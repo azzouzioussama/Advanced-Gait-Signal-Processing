@@ -34,6 +34,6 @@ This repository contains Python code for gait analysis and signal processing, sp
 This project is licensed under the MIT License.
 
 ## Acknowledgments :
-- Samer Mohammed
+- Pr. Samer Mohammed
 
 Please feel free to contribute, report issues, or suggest any improvements. Happy coding!
