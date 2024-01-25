@@ -28,10 +28,12 @@ This repository contains Python code for gait analysis and signal processing, sp
 ## How to Run
 1. Open the provided Jupyter notebook or Python script in a compatible environment.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run each section of the code sequentially, following the instructions and comments.
+3. Run each code section sequentially, following the instructions and comments.
 
 ## License
 This project is licensed under the MIT License.
 
+## Acknowledgments :
+- Samer Mohammed
 
-Feel free to contribute, report issues, or suggest improvements. Happy coding!
+Please feel free to contribute, report issues, or suggest any improvements. Happy coding!
